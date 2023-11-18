@@ -33,12 +33,6 @@ The app will display your BMI along with a status indicating whether you are Und
 ## Screenshots
 ![Screenshot 1](https://github.com/iampranshu2003/BMICalculator/blob/master/screenshot1.jpg)
 ![Screenshot 2](https://github.com/iampranshu2003/BMICalculator/blob/master/screenshot2.jpg)
-![Screenshot 3](https://github.com/iampranshu2003/BMICalculator/blob/master/screenshot3.jpg)
-![Screenshot 4](https://github.com/iampranshu2003/BMICalculator/blob/master/screenshot4.jpg)
-
-
-
-
 
 ## Contributing
 
