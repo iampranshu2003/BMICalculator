@@ -8,7 +8,7 @@ To use the BMI calculator, follow these steps:
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/yourusername/bmicalculator.git
+   git clone https://github.com/iampranshu2003/bmicalculator.git
    ```
 
 2. Open the project in Android Studio.
